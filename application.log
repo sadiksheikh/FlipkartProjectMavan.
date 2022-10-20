@@ -1,0 +1,196 @@
+2022-10-18 19:42:01,943  INFO [main] FlipkartProjectMavan:25 - Flipkart site is Open
+2022-10-18 19:45:40,606  INFO [main] FlipkartProjectMavan:27 - Flipkart site is Open
+2022-10-18 21:19:08,333  INFO [TestNG-test=Flipkart-1] FlipkartProjectMavan:42 - Window Maximize
+2022-10-18 21:20:35,731  INFO [TestNG-test=Flipkart-1] FlipkartProjectMavan:45 - Flipkart site is Open
+2022-10-18 21:20:35,738  INFO [TestNG-test=Flipkart-1] FlipkartProjectMavan:48 - Wait Apply
+2022-10-18 21:20:36,033  INFO [TestNG-test=Flipkart-1] FlipkartProjectMavan:52 - Enter UserName
+2022-10-18 21:20:36,314  INFO [TestNG-test=Flipkart-1] FlipkartProjectMavan:55 - Enter Password
+2022-10-18 21:20:36,496  INFO [TestNG-test=Flipkart-1] FlipkartProjectMavan:58 - Click Login Button
+2022-10-18 21:20:36,520  INFO [TestNG-test=Flipkart-1] FlipkartProjectMavan:14 - Apply Validation
+2022-10-18 21:20:37,214  INFO [TestNG-test=Flipkart-1] FlipkartProjectMavan:65 - Browser is Closed
+2022-10-18 21:22:35,717  INFO [TestNG-test=Flipkart-1] FlipkartProjectMavan:42 - Window Maximize
+2022-10-18 21:24:15,038  INFO [TestNG-test=Flipkart-1] FlipkartProjectMavan:45 - Flipkart site is Open
+2022-10-18 21:24:15,051  INFO [TestNG-test=Flipkart-1] FlipkartProjectMavan:48 - Wait Apply
+2022-10-18 21:24:15,333  INFO [TestNG-test=Flipkart-1] FlipkartProjectMavan:52 - Enter UserName
+2022-10-18 21:24:15,619  INFO [TestNG-test=Flipkart-1] FlipkartProjectMavan:55 - Enter Password
+2022-10-18 21:24:15,782  INFO [TestNG-test=Flipkart-1] FlipkartProjectMavan:58 - Click Login Button
+2022-10-18 21:24:15,806  INFO [TestNG-test=Flipkart-1] FlipkartProjectMavan:14 - Apply Validation
+2022-10-18 21:24:16,444  INFO [TestNG-test=Flipkart-1] FlipkartProjectMavan:65 - Browser is Closed
+2022-10-18 21:29:19,859  INFO [TestNG-test=Test-1] FlipkartProjectMavan:42 - Window Maximize
+2022-10-18 21:30:10,570  INFO [TestNG-test=Test-1] FlipkartProjectMavan:45 - Flipkart site is Open
+2022-10-18 21:30:10,591  INFO [TestNG-test=Test-1] FlipkartProjectMavan:48 - Wait Apply
+2022-10-18 21:30:10,906  INFO [TestNG-test=Test-1] FlipkartProjectMavan:52 - Enter UserName
+2022-10-18 21:30:11,182  INFO [TestNG-test=Test-1] FlipkartProjectMavan:55 - Enter Password
+2022-10-18 21:30:11,351  INFO [TestNG-test=Test-1] FlipkartProjectMavan:58 - Click Login Button
+2022-10-18 21:30:11,373  INFO [TestNG-test=Test-1] FlipkartProjectMavan:14 - Apply Validation
+2022-10-18 21:30:12,107  INFO [TestNG-test=Test-1] FlipkartProjectMavan:65 - Browser is Closed
+2022-10-18 21:38:32,479  INFO [TestNG-test=Test-1] FlipkartProjectMavan:42 - Window Maximize
+2022-10-18 21:39:32,296  INFO [TestNG-test=Test-1] FlipkartProjectMavan:45 - Flipkart site is Open
+2022-10-18 21:39:32,312  INFO [TestNG-test=Test-1] FlipkartProjectMavan:48 - Wait Apply
+2022-10-18 21:39:32,596  INFO [TestNG-test=Test-1] FlipkartProjectMavan:52 - Enter UserName
+2022-10-18 21:39:32,921  INFO [TestNG-test=Test-1] FlipkartProjectMavan:55 - Enter Password
+2022-10-18 21:39:33,086  INFO [TestNG-test=Test-1] FlipkartProjectMavan:58 - Click Login Button
+2022-10-18 21:39:33,113  INFO [TestNG-test=Test-1] FlipkartProjectMavan:14 - Apply Validation
+2022-10-18 21:39:33,836  INFO [TestNG-test=Test-1] FlipkartProjectMavan:65 - Browser is Closed
+2022-10-18 21:43:13,909  INFO [TestNG-test=Test-1] FlipkartProjectMavan:42 - Window Maximize
+2022-10-18 21:44:16,703  INFO [TestNG-test=Test-1] FlipkartProjectMavan:45 - Flipkart site is Open
+2022-10-18 21:44:16,719  INFO [TestNG-test=Test-1] FlipkartProjectMavan:48 - Wait Apply
+2022-10-18 21:44:16,968  INFO [TestNG-test=Test-1] FlipkartProjectMavan:52 - Enter UserName
+2022-10-18 21:44:17,247  INFO [TestNG-test=Test-1] FlipkartProjectMavan:55 - Enter Password
+2022-10-18 21:44:17,521  INFO [TestNG-test=Test-1] FlipkartProjectMavan:58 - Click Login Button
+2022-10-18 21:44:17,550  INFO [TestNG-test=Test-1] FlipkartProjectMavan:14 - Apply Validation
+2022-10-18 21:44:18,215  INFO [TestNG-test=Test-1] FlipkartProjectMavan:65 - Browser is Closed
+2022-10-18 21:45:57,221  INFO [TestNG-test=Test-1] FlipkartProjectMavan:42 - Window Maximize
+2022-10-18 21:47:18,972  INFO [TestNG-test=Test-1] FlipkartProjectMavan:45 - Flipkart site is Open
+2022-10-18 21:47:18,982  INFO [TestNG-test=Test-1] FlipkartProjectMavan:48 - Wait Apply
+2022-10-18 21:47:19,233  INFO [TestNG-test=Test-1] FlipkartProjectMavan:52 - Enter UserName
+2022-10-18 21:47:19,523  INFO [TestNG-test=Test-1] FlipkartProjectMavan:55 - Enter Password
+2022-10-18 21:47:19,674  INFO [TestNG-test=Test-1] FlipkartProjectMavan:58 - Click Login Button
+2022-10-18 21:47:19,695  INFO [TestNG-test=Test-1] FlipkartProjectMavan:14 - Apply Validation
+2022-10-18 21:47:20,326  INFO [TestNG-test=Test-1] FlipkartProjectMavan:65 - Browser is Closed
+2022-10-19 12:31:44,592  INFO [TestNG-test=Test-1] FlipkartProjectMavan:42 - Window Maximize
+2022-10-19 12:32:43,702  INFO [TestNG-test=Test-1] FlipkartProjectMavan:45 - Flipkart site is Open
+2022-10-19 12:32:43,713  INFO [TestNG-test=Test-1] FlipkartProjectMavan:48 - Wait Apply
+2022-10-19 12:32:44,009  INFO [TestNG-test=Test-1] FlipkartProjectMavan:52 - Enter UserName
+2022-10-19 12:32:44,816  INFO [TestNG-test=Test-1] FlipkartProjectMavan:55 - Enter Password
+2022-10-19 12:32:44,965  INFO [TestNG-test=Test-1] FlipkartProjectMavan:58 - Click Login Button
+2022-10-19 12:32:44,985  INFO [TestNG-test=Test-1] FlipkartProjectMavan:14 - Apply Validation
+2022-10-19 12:32:45,672  INFO [TestNG-test=Test-1] FlipkartProjectMavan:65 - Browser is Closed
+2022-10-19 12:32:47,858  INFO [TestNG-test=Test-1] FlipkartProjectMavan:42 - Window Maximize
+2022-10-19 12:33:36,255  INFO [TestNG-test=Test-1] FlipkartProjectMavan:45 - Flipkart site is Open
+2022-10-19 12:33:36,266  INFO [TestNG-test=Test-1] FlipkartProjectMavan:48 - Wait Apply
+2022-10-19 12:33:36,456  INFO [TestNG-test=Test-1] FlipkartProjectMavan:52 - Enter UserName
+2022-10-19 12:33:36,769  INFO [TestNG-test=Test-1] FlipkartProjectMavan:55 - Enter Password
+2022-10-19 12:33:36,953  INFO [TestNG-test=Test-1] FlipkartProjectMavan:58 - Click Login Button
+2022-10-19 12:33:36,959  INFO [TestNG-test=Test-1] FlipkartProjectMavan:13 - Apply Validation
+2022-10-19 12:33:37,540  INFO [TestNG-test=Test-1] FlipkartProjectMavan:65 - Browser is Closed
+2022-10-19 16:48:03,299  INFO [TestNG-test=Test-1] FlipkartProjectMavan:42 - Window Maximize
+2022-10-19 16:49:02,730  INFO [TestNG-test=Test-1] FlipkartProjectMavan:45 - Flipkart site is Open
+2022-10-19 16:49:02,746  INFO [TestNG-test=Test-1] FlipkartProjectMavan:48 - Wait Apply
+2022-10-19 16:49:03,000  INFO [TestNG-test=Test-1] FlipkartProjectMavan:52 - Enter UserName
+2022-10-19 16:49:03,318  INFO [TestNG-test=Test-1] FlipkartProjectMavan:55 - Enter Password
+2022-10-19 16:49:03,503  INFO [TestNG-test=Test-1] FlipkartProjectMavan:58 - Click Login Button
+2022-10-19 16:49:03,527  INFO [TestNG-test=Test-1] FlipkartProjectMavan:14 - Apply Validation
+2022-10-19 16:49:04,202  INFO [TestNG-test=Test-1] FlipkartProjectMavan:65 - Browser is Closed
+2022-10-19 16:49:06,378  INFO [TestNG-test=Test-1] FlipkartProjectMavan:42 - Window Maximize
+2022-10-19 16:50:12,716  INFO [TestNG-test=Test-1] FlipkartProjectMavan:45 - Flipkart site is Open
+2022-10-19 16:50:12,727  INFO [TestNG-test=Test-1] FlipkartProjectMavan:48 - Wait Apply
+2022-10-19 16:50:12,917  INFO [TestNG-test=Test-1] FlipkartProjectMavan:52 - Enter UserName
+2022-10-19 16:50:13,258  INFO [TestNG-test=Test-1] FlipkartProjectMavan:55 - Enter Password
+2022-10-19 16:50:13,400  INFO [TestNG-test=Test-1] FlipkartProjectMavan:58 - Click Login Button
+2022-10-19 16:50:14,061  INFO [TestNG-test=Test-1] FlipkartProjectMavan:65 - Browser is Closed
+2022-10-19 16:53:02,745  INFO [TestNG-test=Test-1] FlipkartProjectMavan:42 - Window Maximize
+2022-10-19 16:53:14,554  INFO [TestNG-test=Test-1] FlipkartProjectMavan:45 - Flipkart site is Open
+2022-10-19 16:53:14,592  INFO [TestNG-test=Test-1] FlipkartProjectMavan:48 - Wait Apply
+2022-10-19 16:53:17,184  INFO [TestNG-test=Test-1] FlipkartProjectMavan:42 - Window Maximize
+2022-10-19 16:53:48,016  INFO [TestNG-test=Test-1] FlipkartProjectMavan:45 - Flipkart site is Open
+2022-10-19 16:53:48,022  INFO [TestNG-test=Test-1] FlipkartProjectMavan:48 - Wait Apply
+2022-10-19 16:53:48,222  INFO [TestNG-test=Test-1] FlipkartProjectMavan:52 - Enter UserName
+2022-10-19 16:53:48,512  INFO [TestNG-test=Test-1] FlipkartProjectMavan:55 - Enter Password
+2022-10-19 16:53:48,905  INFO [TestNG-test=Test-1] FlipkartProjectMavan:58 - Click Login Button
+2022-10-19 16:53:49,458  INFO [TestNG-test=Test-1] FlipkartProjectMavan:65 - Browser is Closed
+2022-10-19 23:41:00,760  INFO [TestNG-test=Test-1] FlipkartProjectMavan:42 - Window Maximize
+2022-10-19 23:41:33,316  INFO [TestNG-test=Test-1] FlipkartProjectMavan:45 - Flipkart site is Open
+2022-10-19 23:41:33,329  INFO [TestNG-test=Test-1] FlipkartProjectMavan:48 - Wait Apply
+2022-10-19 23:41:33,604  INFO [TestNG-test=Test-1] FlipkartProjectMavan:52 - Enter UserName
+2022-10-19 23:41:34,361  INFO [TestNG-test=Test-1] FlipkartProjectMavan:55 - Enter Password
+2022-10-19 23:41:34,602  INFO [TestNG-test=Test-1] FlipkartProjectMavan:58 - Click Login Button
+2022-10-19 23:41:34,668  INFO [TestNG-test=Test-1] FlipkartProjectMavan:14 - Apply Validation
+2022-10-19 23:41:35,387  INFO [TestNG-test=Test-1] FlipkartProjectMavan:65 - Browser is Closed
+2022-10-19 23:41:37,578  INFO [TestNG-test=Test-1] FlipkartProjectMavan:42 - Window Maximize
+2022-10-19 23:42:55,633  INFO [TestNG-test=Test-1] FlipkartProjectMavan:45 - Flipkart site is Open
+2022-10-19 23:42:55,641  INFO [TestNG-test=Test-1] FlipkartProjectMavan:48 - Wait Apply
+2022-10-19 23:42:55,810  INFO [TestNG-test=Test-1] FlipkartProjectMavan:52 - Enter UserName
+2022-10-19 23:42:56,054  INFO [TestNG-test=Test-1] FlipkartProjectMavan:55 - Enter Password
+2022-10-19 23:42:56,234  INFO [TestNG-test=Test-1] FlipkartProjectMavan:58 - Click Login Button
+2022-10-19 23:42:56,928  INFO [TestNG-test=Test-1] FlipkartProjectMavan:65 - Browser is Closed
+2022-10-19 23:42:58,861  INFO [TestNG-test=Test-1] FlipkartProjectMavan:42 - Window Maximize
+2022-10-19 23:43:27,950  INFO [TestNG-test=Test-1] FlipkartProjectMavan:45 - Flipkart site is Open
+2022-10-19 23:43:27,955  INFO [TestNG-test=Test-1] FlipkartProjectMavan:48 - Wait Apply
+2022-10-19 23:43:28,139  INFO [TestNG-test=Test-1] FlipkartProjectMavan:52 - Enter UserName
+2022-10-19 23:43:28,388  INFO [TestNG-test=Test-1] FlipkartProjectMavan:55 - Enter Password
+2022-10-19 23:43:28,599  INFO [TestNG-test=Test-1] FlipkartProjectMavan:58 - Click Login Button
+2022-10-19 23:43:29,306  INFO [TestNG-test=Test-1] FlipkartProjectMavan:65 - Browser is Closed
+2022-10-20 00:09:56,374  INFO [TestNG-test=Test(failed)-1] FlipkartProjectMavan:42 - Window Maximize
+2022-10-20 00:09:56,597  INFO [TestNG-test=Test(failed)-2] FlipkartProjectMavan:42 - Window Maximize
+2022-10-20 00:10:02,718  INFO [TestNG-test=Test(failed)-2] FlipkartProjectMavan:45 - Flipkart site is Open
+2022-10-20 00:10:02,819  INFO [TestNG-test=Test(failed)-2] FlipkartProjectMavan:48 - Wait Apply
+2022-10-20 00:10:48,248  INFO [TestNG-test=Test(failed)-1] FlipkartProjectMavan:45 - Flipkart site is Open
+2022-10-20 00:10:48,263  INFO [TestNG-test=Test(failed)-1] FlipkartProjectMavan:48 - Wait Apply
+2022-10-20 00:10:48,567  INFO [TestNG-test=Test(failed)-1] FlipkartProjectMavan:52 - Enter UserName
+2022-10-20 00:10:48,946  INFO [TestNG-test=Test(failed)-1] FlipkartProjectMavan:55 - Enter Password
+2022-10-20 00:10:49,103  INFO [TestNG-test=Test(failed)-1] FlipkartProjectMavan:58 - Click Login Button
+2022-10-20 00:10:49,788  INFO [TestNG-test=Test(failed)-1] FlipkartProjectMavan:65 - Browser is Closed
+2022-10-20 00:13:55,792  INFO [TestNG-test=Test-1] FlipkartProjectMavan:42 - Window Maximize
+2022-10-20 00:14:01,063  INFO [TestNG-test=Test-1] FlipkartProjectMavan:45 - Flipkart site is Open
+2022-10-20 00:14:01,148  INFO [TestNG-test=Test-1] FlipkartProjectMavan:48 - Wait Apply
+2022-10-20 00:14:04,065  INFO [TestNG-test=Test-1] FlipkartProjectMavan:42 - Window Maximize
+2022-10-20 00:14:08,508  INFO [TestNG-test=Test-1] FlipkartProjectMavan:42 - Window Maximize
+2022-10-20 00:14:10,425  INFO [TestNG-test=Test-1] FlipkartProjectMavan:45 - Flipkart site is Open
+2022-10-20 00:14:10,488  INFO [TestNG-test=Test-1] FlipkartProjectMavan:48 - Wait Apply
+2022-10-20 00:14:31,641  INFO [TestNG-test=Test-2] FlipkartProjectMavan:42 - Window Maximize
+2022-10-20 00:14:31,900  INFO [TestNG-test=Test-3] FlipkartProjectMavan:42 - Window Maximize
+2022-10-20 00:14:31,929  INFO [TestNG-test=Test-1] FlipkartProjectMavan:42 - Window Maximize
+2022-10-20 00:15:06,910  INFO [TestNG-test=Test-2] FlipkartProjectMavan:45 - Flipkart site is Open
+2022-10-20 00:15:06,953  INFO [TestNG-test=Test-2] FlipkartProjectMavan:48 - Wait Apply
+2022-10-20 00:15:09,263  INFO [TestNG-test=Test-3] FlipkartProjectMavan:45 - Flipkart site is Open
+2022-10-20 00:15:09,277  INFO [TestNG-test=Test-3] FlipkartProjectMavan:48 - Wait Apply
+2022-10-20 00:15:09,612  INFO [TestNG-test=Test-2] FlipkartProjectMavan:52 - Enter UserName
+2022-10-20 00:15:09,771  INFO [TestNG-test=Test-3] FlipkartProjectMavan:52 - Enter UserName
+2022-10-20 00:15:10,688  INFO [TestNG-test=Test-3] FlipkartProjectMavan:55 - Enter Password
+2022-10-20 00:15:11,118  INFO [TestNG-test=Test-3] FlipkartProjectMavan:58 - Click Login Button
+2022-10-20 00:15:11,385  INFO [TestNG-test=Test-2] FlipkartProjectMavan:55 - Enter Password
+2022-10-20 00:15:11,718  INFO [TestNG-test=Test-2] FlipkartProjectMavan:58 - Click Login Button
+2022-10-20 00:15:12,781  INFO [TestNG-test=Test-2] FlipkartProjectMavan:65 - Browser is Closed
+2022-10-20 00:15:12,855  INFO [TestNG-test=Test-3] FlipkartProjectMavan:65 - Browser is Closed
+2022-10-20 00:15:42,415  INFO [TestNG-test=Test-1] FlipkartProjectMavan:45 - Flipkart site is Open
+2022-10-20 00:15:42,424  INFO [TestNG-test=Test-1] FlipkartProjectMavan:48 - Wait Apply
+2022-10-20 00:15:42,600  INFO [TestNG-test=Test-1] FlipkartProjectMavan:52 - Enter UserName
+2022-10-20 00:15:42,860  INFO [TestNG-test=Test-1] FlipkartProjectMavan:55 - Enter Password
+2022-10-20 00:15:43,032  INFO [TestNG-test=Test-1] FlipkartProjectMavan:58 - Click Login Button
+2022-10-20 00:15:43,040  INFO [TestNG-test=Test-1] FlipkartProjectMavan:14 - Apply Validation
+2022-10-20 00:15:43,658  INFO [TestNG-test=Test-1] FlipkartProjectMavan:65 - Browser is Closed
+2022-10-20 00:20:39,436  INFO [main] FlipkartProjectMavan:42 - Window Maximize
+2022-10-20 00:20:51,348  INFO [main] FlipkartProjectMavan:45 - Flipkart site is Open
+2022-10-20 00:20:51,357  INFO [main] FlipkartProjectMavan:48 - Wait Apply
+2022-10-20 00:20:51,589  INFO [main] FlipkartProjectMavan:52 - Enter UserName
+2022-10-20 00:20:52,322  INFO [main] FlipkartProjectMavan:55 - Enter Password
+2022-10-20 00:20:52,478  INFO [main] FlipkartProjectMavan:58 - Click Login Button
+2022-10-20 00:20:52,502  INFO [main] FlipkartProjectMavan:14 - Apply Validation
+2022-10-20 00:20:53,145  INFO [main] FlipkartProjectMavan:65 - Browser is Closed
+2022-10-20 00:20:55,167  INFO [main] FlipkartProjectMavan:42 - Window Maximize
+2022-10-20 00:21:41,824  INFO [main] FlipkartProjectMavan:45 - Flipkart site is Open
+2022-10-20 00:21:41,842  INFO [main] FlipkartProjectMavan:48 - Wait Apply
+2022-10-20 00:21:42,031  INFO [main] FlipkartProjectMavan:52 - Enter UserName
+2022-10-20 00:21:42,351  INFO [main] FlipkartProjectMavan:55 - Enter Password
+2022-10-20 00:21:42,532  INFO [main] FlipkartProjectMavan:58 - Click Login Button
+2022-10-20 00:21:43,249  INFO [main] FlipkartProjectMavan:65 - Browser is Closed
+2022-10-20 00:21:44,976  INFO [main] FlipkartProjectMavan:42 - Window Maximize
+2022-10-20 00:22:29,478  INFO [main] FlipkartProjectMavan:45 - Flipkart site is Open
+2022-10-20 00:22:29,487  INFO [main] FlipkartProjectMavan:48 - Wait Apply
+2022-10-20 00:22:29,670  INFO [main] FlipkartProjectMavan:52 - Enter UserName
+2022-10-20 00:22:30,006  INFO [main] FlipkartProjectMavan:55 - Enter Password
+2022-10-20 00:22:30,152  INFO [main] FlipkartProjectMavan:58 - Click Login Button
+2022-10-20 00:22:30,626  INFO [main] FlipkartProjectMavan:65 - Browser is Closed
+2022-10-20 19:49:39,949  INFO [TestNG-test=Test-1] FlipkartProjectMavan:42 - Window Maximize
+2022-10-20 19:49:40,198  INFO [TestNG-test=Test-2] FlipkartProjectMavan:42 - Window Maximize
+2022-10-20 19:49:40,209  INFO [TestNG-test=Test-3] FlipkartProjectMavan:42 - Window Maximize
+2022-10-20 19:50:19,286  INFO [TestNG-test=Test-2] FlipkartProjectMavan:45 - Flipkart site is Open
+2022-10-20 19:50:19,321  INFO [TestNG-test=Test-2] FlipkartProjectMavan:48 - Wait Apply
+2022-10-20 19:50:20,118  INFO [TestNG-test=Test-2] FlipkartProjectMavan:52 - Enter UserName
+2022-10-20 19:50:20,869  INFO [TestNG-test=Test-3] FlipkartProjectMavan:45 - Flipkart site is Open
+2022-10-20 19:50:20,882  INFO [TestNG-test=Test-3] FlipkartProjectMavan:48 - Wait Apply
+2022-10-20 19:50:21,054  INFO [TestNG-test=Test-2] FlipkartProjectMavan:55 - Enter Password
+2022-10-20 19:50:21,346  INFO [TestNG-test=Test-3] FlipkartProjectMavan:52 - Enter UserName
+2022-10-20 19:50:21,357  INFO [TestNG-test=Test-2] FlipkartProjectMavan:58 - Click Login Button
+2022-10-20 19:50:22,255  INFO [TestNG-test=Test-3] FlipkartProjectMavan:55 - Enter Password
+2022-10-20 19:50:22,538  INFO [TestNG-test=Test-3] FlipkartProjectMavan:58 - Click Login Button
+2022-10-20 19:50:23,152  INFO [TestNG-test=Test-2] FlipkartProjectMavan:65 - Browser is Closed
+2022-10-20 19:50:23,200  INFO [TestNG-test=Test-3] FlipkartProjectMavan:65 - Browser is Closed
+2022-10-20 19:50:25,514  INFO [TestNG-test=Test-1] FlipkartProjectMavan:45 - Flipkart site is Open
+2022-10-20 19:50:25,523  INFO [TestNG-test=Test-1] FlipkartProjectMavan:48 - Wait Apply
+2022-10-20 19:50:25,712  INFO [TestNG-test=Test-1] FlipkartProjectMavan:52 - Enter UserName
+2022-10-20 19:50:26,034  INFO [TestNG-test=Test-1] FlipkartProjectMavan:55 - Enter Password
+2022-10-20 19:50:26,160  INFO [TestNG-test=Test-1] FlipkartProjectMavan:58 - Click Login Button
+2022-10-20 19:50:26,165  INFO [TestNG-test=Test-1] FlipkartProjectMavan:14 - Apply Validation
+2022-10-20 19:50:26,706  INFO [TestNG-test=Test-1] FlipkartProjectMavan:65 - Browser is Closed
