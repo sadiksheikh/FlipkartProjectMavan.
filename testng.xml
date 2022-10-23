@@ -2,9 +2,10 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Suite">
   <test thread-count="5" parallel="classes" name="Test">
-  <parameter name="browserName" value="chrome"></parameter>
+  <parameter name="browserName" value="4"></parameter>
     <classes>
       <class name="com.Flipkart.TestClass.TC01_VerifyLoginFunctionality"/>
+      <class name="com.Flipkart.TestClass.TC04_VerifyAllProduct"/>
       <class name="com.Flipkart.TestClass.TC03_VerifyAddTOCartFunctionality"/>
       <class name="com.Flipkart.TestClass.TC02_VerifyLogoutFunctionality"/>
     </classes>

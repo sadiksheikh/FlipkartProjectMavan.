@@ -57,12 +57,13 @@ public class TestBaseClass {
 	lp.ClickLoginButton();
 	log.info("Click Login Button");
 	
-	}
-	@AfterMethod
-	public void tearDown()
-	{
-		driver.quit();
-		log.info("Browser is Closed");
-	}
+//	}
+//	@AfterMethod
+//	public void tearDown()
+//	{
+//		driver.quit();
+//		log.info("Browser is Closed");
+//	}
 	
+}
 }

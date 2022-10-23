@@ -25,7 +25,7 @@ public class TC03_VerifyAddTOCartFunctionality extends TestBaseClass
 	
 	String expecteditem = "Flipkart (1)";
 	String actualitem = hp.GetTextAddToCart();
-	log.info(actualitem);
+	System.out.println(actualitem);
 	
 	Assert.assertEquals(actualitem, expecteditem);
 	}

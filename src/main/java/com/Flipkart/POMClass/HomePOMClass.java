@@ -84,6 +84,7 @@ public class HomePOMClass {
 	{
 		String totalproducts = addtocartText.getText();
 		return totalproducts;
+		
 	}
 	
 	
